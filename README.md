@@ -1,4 +1,4 @@
-# 👥 Clients Manager | نظام إدارة العملاء
+# 👥 Clients Manager | Client Management System
 
 <p align="center">
   <img src="screenshot/logo.png" alt="Clients Manager Logo" width="150"/>
@@ -6,43 +6,49 @@
 
 ---
 
-## 🇸🇩 بالعربية | In Arabic
+## 🌍 In English
 
-**Clients Manager** هو نظام مكتبي متكامل لإدارة بيانات العملاء، متابعة تعاملاتهم، إرسال مطالباتهم المالية، وتوليد تقارير دورية. مصمم خصيصًا لتلبية احتياجات المكاتب والشركات السودانية التي تتعامل مع عدد كبير من العملاء وتحتاج إلى تنظيم التواصل والتحصيل.
+**Clients Manager** is a comprehensive desktop system for managing client data, tracking interactions, sending financial claims, and generating periodic reports. It is specifically designed to meet the needs of Sudanese offices and companies that handle a large number of clients and require organized communication and collection processes.
 
-### ✳️ الوظائف الأساسية
-- إضافة وتعديل بيانات العملاء
-- تصنيف العملاء حسب النشاط أو النوع
-- تسجيل المعاملات والزيارات
-- توليد تقارير دورية قابلة للطباعة
-- البحث السريع والتصفية حسب الاسم أو التاريخ
+### ✳️ Key Features
+- Add and edit client information  
+- Categorize clients by activity or type  
+- Log transactions and visits  
+- Generate printable periodic reports  
+- Fast search and filtering by name or date  
 
-### 💬 إرسال المطالبات والمتابعة
-- إرسال رسائل مخصصة للعملاء تحتوي على تفاصيل المطالبات المالية
-- دعم الإرسال عبر SMS أو WhatsApp أو البريد الإلكتروني
-- تسجيل تاريخ الإرسال وحالة الرد داخل ملف العميل
+### 💬 Financial Claims & Follow-up
+- Send personalized messages to clients with financial claim details  
+- Support for SMS, WhatsApp, or email delivery  
+- Record message history and response status within the client profile  
 
-#### 📩 مثال على رسالة:
-> عزيزي العميل، نود تذكيركم بالمطالبة رقم 1023 بمبلغ 4,500 جنيه، المستحقة بتاريخ 10 سبتمبر 2025. نرجو التواصل معنا لإتمام السداد.  
-> إدارة المكتب – 0912345678
+#### 📩 Sample Message:
+> Dear client, this is a reminder for claim #1023 of SDG 4,500, due on September 10, 2025. Please contact us to complete theير، إليك الترجمة الإنجليزية الكاملة في شكل كود Markdown منسق، جاهز للاستخدام في ملف README أو صفحة مشروع:
+
+```markdown
+# 👥 Clients Manager | Client Management System
+
+<p align="center">
+  <img src="screenshot/logo.png" alt="Clients Manager Logo" width="150"/>
+</p>
 
 ---
 
-## 🌍 In English | بالإنجليزية
+## 🌍 In English
 
-**Clients Manager** is a desktop-based system for managing client data, tracking interactions, sending financial claims, and generating periodic reports. It’s tailored for Sudanese offices and businesses that require organized communication and payment follow-up.
+**Clients Manager** is a comprehensive desktop system for managing client data, tracking interactions, sending financial claims, and generating periodic reports. It is specifically designed to meet the needs of Sudanese offices and companies that handle a large number of clients and require organized communication and collection processes.
 
 ### ✳️ Key Features
-- Add and edit client profiles
-- Categorize clients by type or sector
-- Log transactions and visits
-- Generate printable periodic reports
-- Fast search and filtering by name or date
+- Add and edit client information  
+- Categorize clients by activity or type  
+- Log transactions and visits  
+- Generate printable periodic reports  
+- Fast search and filtering by name or date  
 
 ### 💬 Financial Claims & Follow-up
-- Send personalized messages with financial claim details
-- Support for SMS, WhatsApp, or email delivery
-- Log message history and client response status
+- Send personalized messages to clients with financial claim details  
+- Support for SMS, WhatsApp, or email delivery  
+- Record message history and response status within the client profile  
 
 #### 📩 Sample Message:
 > Dear client, this is a reminder for claim #1023 of SDG 4,500, due on September 10, 2025. Please contact us to complete the payment.  
@@ -50,32 +56,64 @@
 
 ---
 
-## 🖼️ لقطات من النظام | Screenshots
+## 🖼️ Screenshots
 
-| شاشة 1 | شاشة 2 | شاشة 3 |
-|--------|--------|--------|
-| ![](screenshot/logo.png) | ![](screenshot/home.png) | ![](screenshot/colors.png) |
-
-| شاشة 4 | شاشة 5 | شاشة 6 |
-|--------|--------|--------|
-| ![](screenshot/integr.png) | ![](screenshot/production.png) | ![](screenshot/sms.png) |
-
-| شاشة 7 | شاشة 8 | شاشة 9 |
-|--------|--------|--------|
-| ![](screenshot/a%287%29.png) | ![](screenshot/a%288%29.png) | ![](screenshot/a%289%29.png) |
-
-| شاشة 10 | شاشة 11 | شاشة 12 |
-|---------|---------|---------|
-| ![](screenshot/wsms.png) | 
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| ! payment.  
+> Office Management – +249912345678
 
 ---
 
-## 🏗️ هيكل المشروع | Project Structure
+## 🖼️ Screenshots
+
+| Screen 1 | Screen 2 | Screen 3 |
+|----------|----------|----------|
+| ![](screenshot/logo.png) | ![](screenshot/home.png) | ![](screenshot/colors.png) |
+
+| Screen[](screenshot/logo.png) | ![](screenshot/home.png) | ![](screenshot/colors.png) |
+
+| Screen 4 | Screen 5 | Screen 4 | Screen 5 | Screen 6 |
+|---------- 6 |
+|----------|----------|----------|
+| ![](screenshot|----------|----------|
+| ![](screenshot/integr.png) | ![](screenshot/production.png) | ![](screenshot/sms.png) |
+
+| Screen 7 | Screen 8 | Screen 9 |
+|----------|----------|----------|
+| ![](screenshot/a%287%29.png) | ![](screenshot/a/integr.png) | ![](screenshot/production.png) | ![](screenshot/sms.png) |
+
+| Screen 7 | Screen 8 | Screen 9 |
+|----------|----------|----------|
+| ![](screenshot/a%287%29.png) | ![](screenshot/a%288%29.png) | ![](screenshot/a%289%29.png) |
+
+| Screen 10 | Screen 11 | Screen 12 |
+|-----------|-----------|-----------|
+| ![](screenshot/wsms.png) |
+
+---
+
+%288%29.png) | ![](screenshot/a%289%29.png) |
+
+| Screen 10 | Screen 11 | Screen 12 |
+|-----------|-----------|-----------|
+| ![](screenshot/wsms.png) |
+
+---
+
+## 🏗️ Project Structure
 
 ```bash
 Clients-Manager/
-├── README.md           # وصف المشروع | Project description
-├── LICENSE             # رخصة الاستخدام (MIT) | Usage license (MIT)
-├── screenshot/         # صور النظام | System screenshots
-├── db/                 # قاعدة البيانات | Database files
-├── src/                # ملفات النظام | Source code
+├── README.md           # Project description
+├── LICENSE             # Usage license (MIT)
+├── screenshot/         # System screenshots
+├──## 🏗️ Project Structure
+
+```bash
+Clients-Manager/
+├── README.md           # Project description
+├── LICENSE             # Usage license (MIT)
+├── screenshot/         # System screenshots
+├── db/                 # Database files
+├── src/                # Source code
