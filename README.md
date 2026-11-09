@@ -23,9 +23,7 @@
 - Record message history and response status within the client profile  
 
 #### 📩 Sample Message:
-> Dear client, this is a reminder for claim #1023 of SDG 4,500, due on September 10, 2025. Please contact us to complete theير، إليك الترجمة الإنجليزية الكاملة في شكل كود Markdown منسق، جاهز للاستخدام في ملف README أو صفحة مشروع:
 
-```markdown
 # 👥 Clients Manager | Client Management System
 
 <p align="center">
@@ -52,7 +50,7 @@
 
 #### 📩 Sample Message:
 > Dear client, this is a reminder for claim #1023 of SDG 4,500, due on September 10, 2025. Please contact us to complete the payment.  
-> Office Management – +249912345678
+> Office Management – 
 
 ---
 
